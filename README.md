@@ -43,33 +43,7 @@ Mạng Lưu trữ (Storage Area Network - SAN);
 ## Mô hình OSI
 Mô hình OSI là một trong những công cụ quan trọng nhất để giúp ta nắm bắt cách làm việc của các thiết bị mạng như router, switch, PC ... OSI viêt tắt của từ Open System Interconnection
 
-Gồm 7 lớp:
-![image](https://github.com/nguyenmanhthinbsl/ghichep-network/assets/57748767/f9a346fa-4f45-4862-92bf-02e7bf10950b)
-
-### Lớp 7: application - ứng dụng:
-
-### Lớp 6: presentation - trình diễn
-
-### Lớp 5: session - phiên
-
-### Lớp 4: transport - vận chuyển
-
-### Lớp 3: network - mạng
-
-### Lớp 2: datalink - liên kết dữ liệu
-
-### Lớp 1: physical - vật lý
 
 ## Mô Hình TCP/IP
 
 TCP/IP là bộ giao thức cho phép kết nối các hệ thống mạng không đồng nhất với nhau. Ngày nay TCP/IP được sử dụng rộng rãi trong mạng cục bộ cũng như mạng toàn cầu. TCP/IP được xem như giản lược của mô hình tham chiếu OSI với 4 tầng.
-
-![image](https://github.com/nguyenmanhthinbsl/ghichep-network/assets/57748767/a0f29dba-330a-4270-a227-2ee0f682c0c5)
-
-### Lớp 4: Application - ứng  dụng
-
-### Lớp 3: Transport - vận chuyển
-
-### Lớp 2: Internet 
-
-### Lớp 1: Network Access - truy cập mạng
