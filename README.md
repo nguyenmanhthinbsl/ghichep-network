@@ -34,7 +34,7 @@ Mạng toàn cầu (Global Area Network - GAN);
 Mạng Lưu trữ (Storage Area Network - SAN);
 ```
 
-###Các kiểu kết nối mạng trong LAN
+### Các kiểu kết nối mạng trong LAN
 - Dạng tuyến (BUS Topology): dùng dây cáp ít nhất, dễ lắp đặt nên tiết kiệm được chi phí lắp đặt. Nhưng sẽ có sự ùn tắc khi di chuyển dữ liệu với lưu lượng lớn. Khi có sự hỏng hóc ở đoạn nào đó thì rất khó phát hiện, một sự ngừng trên đường dây để sửa chữa sẽ ngừng toàn bộ hệ thống.
 
 - Dạng Hình Sao(Star topology): Tốc độ cao, dễ bảo trì sửa chữa, dễ mở rộng. Nhưng kả năng mở rộng mạng đều phụ thuộc vào khả năng của trung tâm. Khi trung tâm gặp sự cố thì toàn mạng đều ngưng hoạt động. Mạng yêu cầu nối độc lập riêng rẽ từng thiết bị ở các nút thông tin đến trung tâm. Khoảng cách từ máy đến trung tâm rất hạn chế (100 m).
