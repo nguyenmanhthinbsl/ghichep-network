@@ -40,7 +40,7 @@ Mạng Lưu trữ (Storage Area Network - SAN);
 - Dạng Hình Sao(Star topology): Tốc độ cao, dễ bảo trì sửa chữa, dễ mở rộng. Nhưng kả năng mở rộng mạng đều phụ thuộc vào khả năng của trung tâm. Khi trung tâm gặp sự cố thì toàn mạng đều ngưng hoạt động. Mạng yêu cầu nối độc lập riêng rẽ từng thiết bị ở các nút thông tin đến trung tâm. Khoảng cách từ máy đến trung tâm rất hạn chế (100 m).
 - Dạng Vòng( Ring topology): có thể nới rộng ra xa, tiết kiệm được dây cable, tốc độ nhanh hơn kiểu BUS. Nhưng tốc độ không nhanh bằng dạng Star, ngưng toàn bộ hệ thống khi lỗi/bảo trì,khó phát hiện lỗi.
 
-## [Mô hình OSI](#https://github.com/nguyenmanhthinbsl/ghichep-network/blob/master/OSI-model.md)
+## [Mô hình OSI](https://github.com/nguyenmanhthinbsl/ghichep-network/blob/master/OSI-model.md)
 Mô hình OSI là một trong những công cụ quan trọng nhất để giúp ta nắm bắt cách làm việc của các thiết bị mạng như router, switch, PC ... OSI viêt tắt của từ Open System Interconnection
 
 
