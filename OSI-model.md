@@ -40,7 +40,7 @@ Chức năng:
 ## 4. Transport - Vận chuyển - gói tin dạng segment 
 > Nhiệm vụ giao tiếp đầu cuối H2H host-to-host. Điều khiển quá trình truyền gói, phân luồng dữ liệu và giảm tắc nghẽn.
 - Firewall, gateway.
-- Giao thức: TCP, UDP
+- Giao thức: TCP, UDP ![tcp-udp-all](/resources/tcp-udp-all.png)
 > Port: xác định dịch vụ mà gói tin sẽ được chuyển đến.
 
 ### TCP vs UDP communication diff:
@@ -53,12 +53,12 @@ Chức năng:
 - Các giao thức: SSL/TLS, JPEG, GIF,...
 ## 7. Application - Ứng dụng
 > Cung cấp giao diện, dịch vụ cho ứng dụng, tương tác trực tiếp với người dùng.
-- Các giao thức: DHCP, HTTP, POP3, FTP, SMTP,...
+- Các giao thức: DHCP, [HTTP](https://github.com/nguyenmanhthinbsl/ghichep-network/blob/master/http-in-details.md), POP3, FTP, SMTP,...
 
 |Protocol|Port Number(s)|Description|
 |--------|--------------|-----------|
 |Domain Name System (DNS)|	53|	Translates internet names to their globally registered IP addresses. For example, “google.com” is registered in global DNS as IP address 8.8.8.8.|
-|Hypertext Transfer Protocol Secure (HTTPS)|443|Sends data to and from web browsers and web servers, but securely with the Secure Socket Layer (SSL) protocol.|
+|Hypertext Transfer Protocol Secure ([HTTPS](https://github.com/nguyenmanhthinbsl/ghichep-network/blob/master/http-in-details.md))|443|Sends data to and from web browsers and web servers, but securely with the Secure Socket Layer (SSL) protocol.|
 |File Transfer Protocol FTP|20,21|Transfers files from a client to a server and vice versa.|
 |Secure Shell (SSH)|22|	Connects to computers remotely and in a secure, encrypted way.|
 |Simple Mail Transfer Protocol (SMTP)|	25|	Sends and receives email.|
